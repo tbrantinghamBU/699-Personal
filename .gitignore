@@ -1,0 +1,8 @@
+# Ignore large data files
+*.zip
+*.csv
+*.json
+
+# Ignore directories
+data/
+output/
