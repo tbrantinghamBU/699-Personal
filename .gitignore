@@ -2,6 +2,7 @@
 *.zip
 *.csv
 *.json
+*.pdf
 
 # Ignore directories
 data/
